@@ -2,11 +2,6 @@
  /*
  * ChainedHashTable.java
  *
- * Computer Science 112, Boston University
- * 
- * Modifications and additions by:
- *     name:
- *     email:
  */
 
 import java.util.*;     // to allow for the use of Arrays.toString() in testing
